@@ -1,8 +1,8 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "serdarozturk/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
-    "homepage": "https://github.com/dompdf/dompdf",
+    "homepage": "https://github.com/serdarozturk/dompdf",
     "license": "LGPL-2.1",
     "authors": [
         {
@@ -35,10 +35,5 @@
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
         "squizlabs/php_codesniffer": "2.*"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-develop": "0.7-dev"
-        }
     }
 }
